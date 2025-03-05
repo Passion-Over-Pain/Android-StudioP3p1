@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Practical 3</string>
+    <string name="ticket_vault">Ticket Vault</string>
+    <string name="number_of_tickets">Number of Tickets</string>
+    <string-array name="concertNames">
+        <item>Cape Town Jazz Festival</item>
+        <item>National Arts Festival</item>
+        <item>Ultra Johannesburg</item>
+        <item>Beach Life Festival</item>
+        <item>Rocking Daises</item>
+    </string-array>
+</resources>
